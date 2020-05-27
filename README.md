@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/MutiaKurniati0508/Space%20Game/_apis/build/status/mnk82.mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/MutiaKurniati0508/Space%20Game/_build/latest?definitionId=6&branchName=master)
+[![Build Status](https://dev.azure.com/MutiaKurniati0508/Space%20Web%20Tests/_apis/build/status/mslearn-tailspin-spacegame-web?branchName=master)](https://dev.azure.com/MutiaKurniati0508/Space%20Web%20Tests/_build/latest?definitionId=7&branchName=master)
 
 
 
